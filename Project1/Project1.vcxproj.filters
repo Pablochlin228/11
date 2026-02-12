@@ -15,18 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Desktop\4\Project7\Source1.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\4\Project7\Task1.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\4\Project7\Task2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\4\Project7\Task3.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="11.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
